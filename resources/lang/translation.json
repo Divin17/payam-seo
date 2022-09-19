@@ -1,0 +1,80 @@
+{
+    "global_components": {
+        "user_types_title": {
+            "en": "Pay'am is meant for",
+            "fr": "Pay'am est destiné à"
+        },
+        "providers_title": {
+            "en": "Supported Payment Providers in {{$continent}}",
+            "fr": "Fournisseurs de paiement pris en charge en {{$continent}}"
+        },
+        "networks_title": {
+            "en": "Supported Networks in {{$continent}}",
+            "fr": "Réseaux soutenus en {{$continent}}"
+        },
+        "services_title": {
+            "en": "What you can do with Pay'am in {{$continent}}",
+            "fr": "Ce que vous pouvez faire avec Pay'am en {{$continent}}"
+        },
+        "faqs_title": {
+            "en": "Frequently asked questions",
+            "fr": "Questions fréquemment posées"
+        },
+        "about": {
+            "en": "Send Money and Pay for Goods and Services, Receive payments from clients and Pay Vendors with the Pay'am App.",
+            "fr": "Envoyez de l'argent et payez des biens et des services, recevez des paiements de clients et payez des fournisseurs avec l'application Pay'am."
+        },
+        "download_app_title": {
+            "en": "Download the App",
+            "fr": "Téléchargez l'application"
+        },
+        "download_app_description": {
+            "en": "Send Money and Pay for Goods and Services, Receive payments from clients and Pay Vendors with the Pay'am App.",
+            "fr": "Envoyez de l'argent et payez des biens et des services, recevez des paiements de clients et payez des fournisseurs avec l'application Pay'am."
+        },
+        "supported_countries_title": {
+            "en": "Pay'am Supported Countries",
+            "fr": "Pays pris en charge par Pay'am"
+        },
+        "supported_countries_description": {
+            "en": "Pay'am is avaliable and operational in the following countries and will continue to support more countries in the future.",
+            "fr": "Pay'am est disponible et opérationnel dans les pays suivants et continuera à prendre en charge d'autres pays à l'avenir."
+        },
+        "unsupported_countries_description": {
+            "en": "Pay'am will be soon available and operational in the following countries.",
+            "fr": "Pay'am sera bientôt disponible et opérationnel dans les pays suivants."
+        },
+        "get_started_title": {
+            "en": "Get Started with Pay'am",
+            "fr": "Démarrez avec Pay'am"
+        },
+        "get_started_description": {
+            "en": "Download the App, Invite someone, use the app and you both earn.",
+            "fr": "Téléchargez l'application, invitez quelqu'un, utilisez l'application et vous gagnez tous les deux."
+        }
+
+    },
+    "country_components": {
+        "user_types_title": {
+            "en": "Pay'am is meant for",
+            "fr": "Pay'am est destiné à"
+        },
+        "providers_title": {
+            "en": "Supported Payment Providers in {{$country}}",
+            "fr": "Fournisseurs de paiement pris en charge au {{$country}}"
+        },
+        "networks_title": {
+            "en": "Supported Networks in {{$country}}",
+            "fr": "Réseaux soutenus au {{$country}}"
+        },
+        "services_title": {
+            "en": "What you can do with Pay'am in {{$country}}",
+            "fr": "Ce que vous pouvez faire avec Pay'am au {{$country}}"
+        },
+        "FAQs_title": {
+            "en": "Frequently asked questions",
+            "fr": "Questions fréquemment posées"
+        }
+    }
+    
+}
